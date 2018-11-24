@@ -1,0 +1,19 @@
+{
+  "name": "chatsys",
+  "version": "1.0.0",
+  "description": "chat system for Project Matcha ",
+  "main": "app.js",
+  "scripts": {
+    "start": "npx nodemon  ",
+    "exec": "node app.js"
+  },
+  "author": "Ntsikelelo Metseeme nmetseem",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}

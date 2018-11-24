@@ -1,0 +1,38 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    font: 15px monospace; 
+    list-style: none;
+      
+}
+
+#form
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #eee;
+    padding: 5px;
+}
+#btnsave
+{
+    background: rgba(26, 224, 148, 0.8);
+    width: 10%;
+    border: none;
+}
+#btnsave:hover
+{
+    background: rgba(100,20,30,0.8);
+}
+
+#msg
+{
+    padding: 10px;
+    width: 90%;
+}
