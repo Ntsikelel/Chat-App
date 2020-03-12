@@ -16,4 +16,4 @@
    * - [x] socket.io
  
 
-__Developers__ :octocat: : [Ntsikelelo Metseeme](https://github.com/Ntsikelel/):copyright:,
+__Developers__ :octocat: : [Ntsikelelo Metseeme](https://github.com/Ntsikelel/):copyright:,[Twitter](https://twitter.com/ntsikimetseeme/) 
