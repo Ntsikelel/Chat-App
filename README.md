@@ -6,7 +6,7 @@
 > Run shell script on shell terminal on unix system `./startchat.sh`.<br>
 
 
-```javascript const PORT = process.env.PORT;```
+```const PORT = process.env.PORT;```
 
 # Technologies used 
 - [x] Node js  <br>
