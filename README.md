@@ -2,8 +2,8 @@
 ### Ntsikelelo Metseeme
 
 > Initializing `npm install` to download all packages. <br>
-> Run project `npm run exec` with `terminal`.
-> Run shell script on shell terminal on unix system `./shell.sh`.
+> Run project `npm run exec` with `terminal`.<br>
+> Run shell script on shell terminal on unix system `./startchat.sh`.<br>
 
 
 ```javascript const PORT = process.env.PORT;```
