@@ -2,10 +2,11 @@
 ### Ntsikelelo Metseeme
 
 > Initializing `npm install` to download all packages. <br>
-> Run project `npm run dev` with `terminal`.
+> Run project `npm run exec` with `terminal`.
+> Run shell script on shell terminal on unix system `./shell.sh`.
 
 
-```const PORT = process.env.PORT || 3000;```
+```javascript const PORT = process.env.PORT;```
 
 # Technologies used 
 - [x] Node js  <br>
